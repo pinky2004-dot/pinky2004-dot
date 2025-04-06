@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a **passionate AI enthusiast** and **problem solver** who loves building innovative solutions. Whether it's **machine learning, cloud computing, or data-driven applications**, I thrive on turning complex problems into elegant solutions. 🚀  
-
----
-
-## 🔭 What I’m Building  
-🔥 **Pet Health AI** – An AI-powered system designed to help pet owners detect potential health issues in their pets. 🐶🐱  
-
-I believe technology should **make lives easier**—which is why I’m always working on AI-driven solutions that create real impact.  
+I’m a **passionate AI enthusiast** and **problem solver** who loves building innovative solutions. Whether it's **machine learning, cloud computing, or data-driven applications**, I thrive on turning complex problems into elegant solutions. 🚀   
 
 ---
 
