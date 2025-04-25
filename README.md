@@ -102,17 +102,6 @@ I’m a **passionate AI enthusiast** and **problem solver** who loves building i
 
 ---
 
-## 🌱 What I’m Learning  
-I’m constantly expanding my skills to stay ahead in the tech world! Currently diving deeper into:  
-✅ **Machine Learning & Deep Learning** – Enhancing AI models for real-world applications  
-✅ **Data Structures & Algorithms (DSA)** – Writing efficient and optimized code  
-✅ **SQL & Database Optimization** – Managing and analyzing data effectively  
-✅ **Python, AWS, and Scalable System Design** – Building robust, cloud-based applications  
-
-I’m also exploring **MLOps** to streamline AI model deployment and improve efficiency.  
-
----
-
 ## 📫 Let’s Connect!  
 📩 **Email:** SaiDonepudi@my.unt.edu  
 🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sai-d-23157a1bb/) 
