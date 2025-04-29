@@ -19,7 +19,8 @@ I’m a **passionate AI enthusiast** and **problem solver** who loves building i
 
 - 💼 **Profession:** Student
 - 🎓 **Education:**
-  *  Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications,  from The University of Austin, McCombs School of Business, Texas.
+  *  Generative AI for Natural Language Processing Program, Great Learning
+  *  Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications, The University of Austin, McCombs School of Business, Texas.
   *  Bachelor of Science, Data Science and Computer Science, Denton, Texas.
 - 🌍 **Location:** Dallas-Fort Worth Metroplex, Texas
 - 📫 **How to reach me:** Email:SaiDonepudi@my.unt.edu or LinkedIn
