@@ -100,14 +100,6 @@ I’m a **passionate AI enthusiast** and **problem solver** who loves building i
 
 ---
 
-## 📫 Let’s Connect!  
-📩 **Email:** SaiDonepudi@my.unt.edu  
-🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sai-d-23157a1bb/) 
-
-I’m always open to networking, new opportunities, and exciting collaborations!  
-
----
-
 ## 😄 Fun Facts About Me  
 📚 **I love reading books** – Always looking for great book recommendations!  
 🎨 **Drawing is my creative escape** – I enjoy sketching and digital art.  
