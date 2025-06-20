@@ -25,7 +25,7 @@ I’m a **passionate AI enthusiast** and **problem solver** who loves building i
        * https://vrfy.digital/uhccjltq
   *  Bachelor of Science, Data Science and Computer Science, Denton, Texas.
 - 🌍 **Location:** Dallas-Fort Worth Metroplex, Texas
-- 📫 **How to reach me:** Email:SaiDonepudi@my.unt.edu or LinkedIn(https://www.linkedin.com/in/sai-d-23157a1bb/)
+- 📫 **How to reach me:** Email:SaiDonepudi@my.unt.edu or https://www.linkedin.com/in/sai-d-23157a1bb/
 
 ---
 
