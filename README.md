@@ -98,11 +98,6 @@ I’m a **passionate AI enthusiast** and **problem solver** who loves building i
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 
-### Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinky2004-dot&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinky2004-dot&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Let’s Connect!  
