@@ -31,10 +31,10 @@ I’m a **passionate AI enthusiast** and **problem solver** who loves building i
 
 ## 🌟 Projects  
 
-### Pet Matrix Database Management System(https://github.com/pinky2004-dot/Pet-Matrix-Database-Management-System)
-* *Description:* The Pet Matrix Database Management System is designed to optimize the management of a single pet clinic. As an integrated platform, Pet Matrix effectively addresses a range of critical elements essential for the successful operation of the clinic.
-* *Tech Stack:* [MySQL, MS SQL Server]
-* *Key Features:* [User Requirements, Business Rules, Tables & Data Types, Entity-Relationship Diagram, Data Dictionary, Data Entry, Data Retrieval]
+### Pet Health AI: Smarter, Faster Veterinary Triage for Every Pet Owner(https://github.com/pinky2004-dot/pet-health-ai)
+* *Description:* An AI-powered full-stack web application developed to assist pet owners by classifying pet health queries as either emergency or non-emergency. The goal of this project is to provide a reliable tool that can quickly categorize user concerns, enabling pet owners to make informed decisions about seeking immediate veterinary care. The system leverages a Retrieval-Augmented Generation (RAG) pipeline to provide accurate, context-based responses, effectively lowering the barrier to accessing preliminary pet health information.
+* *Tech Stack:* [Python, Flask, Langchain, AWS S3, AWS Cognito, AWS Location Service, AWS Sagemaker, AWS Bedrock, OpenAI GPT-4.1, Pinecone, React]
+* *Key Features:* [AI-powered query classification, RAG pipeline, context-based response generation, full-stack web application, user-friendly interface, AWS cloud integration]
 
 ### Stay or Stray: Forecasting Credit Card Customer Loyalty(https://github.com/pinky2004-dot/Stay-or-Stray-Forecasting-Credit-Card-Customer-Loyalty)
 * *Description:* A bank is experiencing a notable decline in credit card user retention, crucially affecting its revenue derived from numerous associated fees. My objective is to perform an in-depth analysis of customer data and construct a sophisticated classification model. This model should proficiently predict which customers are inclined to terminate their credit card services and elucidate the underlying reasons for such behavior. These insights will empower the organization to strategically enhance its service offerings and implement effective customer retention strategies.
