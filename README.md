@@ -36,11 +36,6 @@ I’m a **passionate AI enthusiast** and **problem solver** who loves building i
 * *Tech Stack:* [Python, Flask, Langchain, AWS S3, AWS Cognito, AWS Location Service, AWS Sagemaker, AWS Bedrock, OpenAI GPT-4.1, Pinecone, React]
 * *Key Features:* [AI-powered query classification, RAG pipeline, context-based response generation, full-stack web application, user-friendly interface, AWS cloud integration]
 
-### Stay or Stray: Forecasting Credit Card Customer Loyalty(https://github.com/pinky2004-dot/Stay-or-Stray-Forecasting-Credit-Card-Customer-Loyalty)
-* *Description:* A bank is experiencing a notable decline in credit card user retention, crucially affecting its revenue derived from numerous associated fees. My objective is to perform an in-depth analysis of customer data and construct a sophisticated classification model. This model should proficiently predict which customers are inclined to terminate their credit card services and elucidate the underlying reasons for such behavior. These insights will empower the organization to strategically enhance its service offerings and implement effective customer retention strategies.
-* *Tech Stack:* [Python, Scikit-learn, Matplotlib, Numpy, Pandas]
-* *Key Features:* [Exploratory Data Analysis (EDA), Data Visualization, Data Cleaning, Inferential Statistics, Correlation and Relationships, Ensemble Methods]
-
 ### Plant Seedling Classification using Convolutional Neural Networks (CNNs)(https://github.com/pinky2004-dot/plant-seedling-classifier)
 * *Description:* The agriculture industry, which remains heavily reliant on manual labor, faces challenges in tasks such as sorting and identifying plant seedlings. Despite advances in technology, workers still spend considerable time and effort identifying different plant species and weeds. By leveraging Artificial Intelligence and Deep Learning, this project aims to modernize the agricultural industry, reducing manual labor, increasing crop yields, and improving overall sustainability. The primary goal is to build an AI-driven system that efficiently classifies plant seedlings based on images, helping agricultural workers save time and make better decisions.
 * *Tech Stack:* [Python, TensorFlow, Seaborn, OpenCV, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
